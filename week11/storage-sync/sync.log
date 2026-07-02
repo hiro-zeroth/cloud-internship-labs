@@ -1,0 +1,7 @@
+2026/07/02 14:58:39 Failed to create file system for "remote:destination": didn't find section in config file
+2026/07/02 15:01:21 INFO  : There was nothing to transfer
+2026/07/02 15:01:21 INFO  : 
+Transferred:   	         0 / 0 Bytes, -, 0 Bytes/s, ETA -
+Checks:                 2 / 2, 100%
+Elapsed time:         0.0s
+
